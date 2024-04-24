@@ -26,8 +26,6 @@ We hope this repository simplifies your Hackintosh setup process, allowing you t
 ## What didn't work?
 - [x] Auxiliary monitor.
 - [x] Bluetooth dongle TPLINK UB500
-- [x] Two editions - *Release* and *Debug* Edition.
-- [x] Updated montly with refresh versions of Opencore.
 
 ## My Configuration
 
