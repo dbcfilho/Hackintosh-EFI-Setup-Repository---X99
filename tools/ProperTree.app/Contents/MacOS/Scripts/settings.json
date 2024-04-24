@@ -1,0 +1,17 @@
+{
+    "enable_drag_and_drop": true,
+    "drag_dead_zone": 20,
+    "use_custom_font_size": false,
+    "use_custom_font": false,
+    "open_recent": [
+        "/Volumes/EFI/EFI/OC/config.plist",
+        "/Volumes/HACKINTOCH/EFI/OC/config.plist",
+        "/Users/devbrum/Desktop/patches_OC.plist"
+    ],
+    "opacity": 100,
+    "expand_all_items_on_open": false,
+    "comment_strip_prefix": "#",
+    "max_undo": 200,
+    "last_snapshot_path": "/Volumes/EFI/EFI/OC",
+    "font_size": 13
+}
